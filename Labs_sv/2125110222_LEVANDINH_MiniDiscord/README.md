@@ -83,6 +83,7 @@ g++ main.cpp user.cpp bst.cpp message.cpp stack.cpp file.cpp -o MiniDiscord
 
 
 \## Chức năng chính:
+
 1. Đăng ký tài khoản (Register).
 
 2\. Đăng nhập (Login).
